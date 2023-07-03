@@ -1,9 +1,12 @@
 # weather
 A small weather RSS reader for the terminal
 
+All scripts are without any kind of warranty, use entirely at your own risk!
+
 On linux place into /user/local/bin/ and change permissions as follows: 
 sudo chown root /user/local/bin/weather.sh 
 sudo chmod 755 /user/local/bin/weather.sh
+sudo mv /user/local/bin/weather.sh /user/local/bin/weather
 
 Dependancies: aria2 sudo apt-get install aria2
 
